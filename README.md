@@ -39,7 +39,17 @@
 - 📄 [Portfolio](https://engrjunaidkundi.github.io/)
 
 
-### Languages & Tools
+### Languages & Tools 🛠
+<img src="https://img.shields.io/badge/html-02569B?style=for-the-badge&logo=html&logoColor=white" />
+<img src="https://img.shields.io/badge/css-02569B?style=for-the-badge&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/bootstrap-02569B?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/jquery-02569B?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/java-02569B?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/php-02569B?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/laravel-02569B?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-02569B?style=for-the-badge&logo=firebase&logoColor=white" />
+
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -49,7 +59,6 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nvc/nvc.png"></code>
 
 <br>
 <br>
